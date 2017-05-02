@@ -40,3 +40,8 @@ a {
     color: #bba7e2;
     text-decoration: none;
 }
+
+a:hover {
+    color: #9d83d1;
+    text-decoration: none;
+}
