@@ -11,9 +11,15 @@ body {
     line-height: 130px;
 }
 
+.naughty {
+    font-family: 'Playball', cursive;
+    font-weight: 300;
+    color: #9d83d1;
+}
+
 .subheading {
     padding-top: 20px;
-    color: #ecccf2;
+    color: #bba7e2;
 }
 
 .question {
@@ -27,9 +33,10 @@ body {
 }
 
 .rsvp {
-    padding-top: 100px;
+    padding-top: 40px;
 }
 
 a {
-    color: #ecccf2;
+    color: #bba7e2;
+    text-decoration: none;
 }
