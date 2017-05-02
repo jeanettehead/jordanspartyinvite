@@ -1,0 +1,35 @@
+body {
+    background-color: #111;
+    color: #eee;
+    font-size: 24px;
+    padding-left: 30px;
+}
+
+.headline {
+    font-weight: 600;
+    font-size: 120px;
+    line-height: 130px;
+}
+
+.subheading {
+    padding-top: 20px;
+    color: #ecccf2;
+}
+
+.question {
+    font-weight: 600;
+    width: 100px;
+    display: inline-block;
+}
+
+.details {
+    padding-top: 40px;
+}
+
+.rsvp {
+    padding-top: 100px;
+}
+
+a {
+    color: #ecccf2;
+}
